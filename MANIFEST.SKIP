@@ -1,0 +1,8 @@
+tags
+.*\.bak
+.*\.old
+\.git
+MYMETA.*
+Makefile$
+cover_db/*
+t/inc/tmp
