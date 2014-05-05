@@ -1,7 +1,9 @@
 NAME
+
     Webservice::BitBucket - REST API to BitBucket.org
 
 SYNOPSIS
+
         use Webservice::BitBucket;
 
         my $bitbucket = Webservice::BitBucket->new(
@@ -27,11 +29,13 @@ SYNOPSIS
         my @acticivite = $bitbucket->activities();
 
 AUTHOR
-    Wesley Schwengle, "<wesley at schwengle.net>"
+
+    Wesley Schwengle, <wesley at schwengle.net>
 
 BUGS
-COPYRIGHT and LICENSE
-    Copyright 2014 Wesley Schwengle.
 
+COPYRIGHT and LICENSE
+
+    Copyright 2014 Wesley Schwengle.
     This program is released under the following license: EUPL
 
